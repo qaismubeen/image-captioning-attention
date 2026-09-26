@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+jupyter_runtime/
+data/Images/
+data/image_features.pkl
